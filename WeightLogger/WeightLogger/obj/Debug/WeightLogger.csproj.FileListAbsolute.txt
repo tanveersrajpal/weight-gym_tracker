@@ -1,0 +1,11 @@
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\bin\Debug\WeightLogger.exe.config
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\bin\Debug\WeightLogger.exe
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\bin\Debug\WeightLogger.pdb
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\obj\Debug\WeightLogger.Form1.resources
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\obj\Debug\WeightLogger.Properties.Resources.resources
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\obj\Debug\WeightLogger.csproj.GenerateResource.cache
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\obj\Debug\WeightLogger.csproj.CoreCompileInputs.cache
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\obj\Debug\WeightLogger.exe
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\obj\Debug\WeightLogger.pdb
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\obj\Debug\WeightLogger.Trainer.resources
+C:\Users\64225\source\repos\WeightLogger\WeightLogger\obj\Debug\WeightLogger.csprojAssemblyReference.cache
